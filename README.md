@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0128-longest-consecutive-sequence) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0349-intersection-of-two-arrays) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0349-intersection-of-two-arrays) |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0387-first-unique-character-in-a-string) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
