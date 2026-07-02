@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0001-two-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0217-contains-duplicate) |
 | [1046-last-stone-weight](https://github.com/Sarbojit777/MyDSAJourney/tree/master/1046-last-stone-weight) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0242-valid-anagram) |
 ## String
