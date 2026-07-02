@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1046-last-stone-weight](https://github.com/Sarbojit777/MyDSAJourney/tree/master/1046-last-stone-weight) |
 ## Divide and Conquer
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
 |  |
 | ------- |
@@ -44,8 +47,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
