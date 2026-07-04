@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0128-longest-consecutive-sequence) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Sarbojit777/MyDSAJourney/tree/master/1971-find-if-path-exists-in-graph) |
 ## Sliding Window
 |  |
 | ------- |
@@ -91,4 +92,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0208-implement-trie-prefix-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Sarbojit777/MyDSAJourney/tree/master/1971-find-if-path-exists-in-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Sarbojit777/MyDSAJourney/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Sarbojit777/MyDSAJourney/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
