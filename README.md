@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0746-min-cost-climbing-stairs](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0746-min-cost-climbing-stairs) |
 | [1046-last-stone-weight](https://github.com/Sarbojit777/MyDSAJourney/tree/master/1046-last-stone-weight) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Sarbojit777/MyDSAJourney/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Divide and Conquer
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0746-min-cost-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
