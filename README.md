@@ -107,4 +107,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0841-keys-and-rooms](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sarbojit777/MyDSAJourney/tree/master/1971-find-if-path-exists-in-graph) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
