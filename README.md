@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Sarbojit777/MyDSAJourney/tree/master/1046-last-stone-weight) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sarbojit777/MyDSAJourney/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Sarbojit777/MyDSAJourney/tree/master/1480-running-sum-of-1d-array) |
+| [1528-shuffle-string](https://github.com/Sarbojit777/MyDSAJourney/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/Sarbojit777/MyDSAJourney/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Sarbojit777/MyDSAJourney/tree/master/1920-build-array-from-permutation) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Sarbojit777/MyDSAJourney/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0387-first-unique-character-in-a-string) |
+| [1528-shuffle-string](https://github.com/Sarbojit777/MyDSAJourney/tree/master/1528-shuffle-string) |
 ## Two Pointers
 |  |
 | ------- |
