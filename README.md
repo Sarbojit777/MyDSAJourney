@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0746-min-cost-climbing-stairs) |
+| [0766-toeplitz-matrix](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0867-transpose-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0918-maximum-sum-circular-subarray) |
 | [1046-last-stone-weight](https://github.com/Sarbojit777/MyDSAJourney/tree/master/1046-last-stone-weight) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0766-toeplitz-matrix](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Sarbojit777/MyDSAJourney/tree/master/1672-richest-customer-wealth) |
 ## Simulation
