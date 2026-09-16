@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0219-contains-duplicate-ii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Queue
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0219-contains-duplicate-ii) |
 ## Design
 |  |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0209-minimum-size-subarray-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Sarbojit777/MyDSAJourney/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
 |  |
