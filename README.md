@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0215-kth-largest-element-in-an-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0746-min-cost-climbing-stairs) |
