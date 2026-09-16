@@ -64,11 +64,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0387-first-unique-character-in-a-string) |
 | [1528-shuffle-string](https://github.com/Sarbojit777/MyDSAJourney/tree/master/1528-shuffle-string) |
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
