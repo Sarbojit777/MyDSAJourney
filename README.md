@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0020-valid-parentheses) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0344-reverse-string) |
@@ -177,4 +178,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0918-maximum-sum-circular-subarray) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
