@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0682-baseball-game](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0682-baseball-game) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0746-min-cost-climbing-stairs) |
 | [0766-toeplitz-matrix](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0867-transpose-matrix) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/Sarbojit777/MyDSAJourney/tree/master/1920-build-array-from-permutation) |
 ## Monotonic Queue
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0155-min-stack) |
+| [0682-baseball-game](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0682-baseball-game) |
 ## Bracket Sequences
 |  |
 | ------- |
