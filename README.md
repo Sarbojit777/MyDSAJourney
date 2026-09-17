@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0387-first-unique-character-in-a-string) |
+| [0844-backspace-string-compare](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0844-backspace-string-compare) |
 | [1528-shuffle-string](https://github.com/Sarbojit777/MyDSAJourney/tree/master/1528-shuffle-string) |
 ## Two Pointers
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0844-backspace-string-compare](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0844-backspace-string-compare) |
 ## Binary Search
 |  |
 | ------- |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/Sarbojit777/MyDSAJourney/tree/master/1920-build-array-from-permutation) |
 ## Monotonic Queue
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0844-backspace-string-compare) |
 ## Bracket Sequences
 |  |
 | ------- |
