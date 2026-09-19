@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0209-minimum-size-subarray-sum) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0229-majority-element-ii) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0349-intersection-of-two-arrays) |
@@ -197,4 +200,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0020-valid-parentheses) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
