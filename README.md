@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0160-intersection-of-two-linked-lists) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0219-contains-duplicate-ii) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0344-reverse-string) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
