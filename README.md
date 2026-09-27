@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0682-baseball-game) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0746-min-cost-climbing-stairs) |
 | [0766-toeplitz-matrix](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0766-toeplitz-matrix) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0560-subarray-sum-equals-k) |
 | [1512-number-of-good-pairs](https://github.com/Sarbojit777/MyDSAJourney/tree/master/1512-number-of-good-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Sarbojit777/MyDSAJourney/tree/master/2215-find-the-difference-of-two-arrays) |
 ## String
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Sarbojit777/MyDSAJourney/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
 |  |
