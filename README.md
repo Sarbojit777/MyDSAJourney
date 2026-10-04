@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0918-maximum-sum-circular-subarray) |
@@ -294,5 +295,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0067-add-binary) |
+| [0191-number-of-1-bits](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
