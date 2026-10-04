@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sarbojit777/MyDSAJourney/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/Sarbojit777/MyDSAJourney/tree/master/1512-number-of-good-pairs) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0024-swap-nodes-in-pairs) |
+| [0231-power-of-two](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -292,4 +294,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
