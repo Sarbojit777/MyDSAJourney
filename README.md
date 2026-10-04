@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0067-add-binary) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0344-reverse-string) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0509-fibonacci-number) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0867-transpose-matrix) |
@@ -285,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0142-linked-list-cycle-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
