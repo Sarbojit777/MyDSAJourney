@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Queue
@@ -181,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sarbojit777/MyDSAJourney/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/Sarbojit777/MyDSAJourney/tree/master/1512-number-of-good-pairs) |
@@ -299,4 +304,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
