@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0070-climbing-stairs) |
+| [0338-counting-bits](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0918-maximum-sum-circular-subarray) |
@@ -305,4 +306,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Sarbojit777/MyDSAJourney/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
